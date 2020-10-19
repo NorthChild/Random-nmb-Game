@@ -16,8 +16,6 @@ tries
 - depending on fail/success, respond to 
 user with chosen random number 
 
-########################
-
 ############
 NEXT BUILD
 ############
@@ -25,4 +23,3 @@ NEXT BUILD
 - basic graphics
 - change settings
 
-########################
