@@ -1,9 +1,9 @@
 # Random-nmb-Game
 a simple random number generator game
 
-############
-FIRST BUILD 
-############
+
+- FIRST BUILD -
+
 - change settings to increase or 
 decrease difficulty level
 - change either random numb range 
@@ -16,9 +16,9 @@ tries
 - depending on fail/success, respond to 
 user with chosen random number 
 
-############
-NEXT BUILD
-############
+
+- NEXT BUILD -
+
 - basic user UI 
 - basic graphics
 - change settings
