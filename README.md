@@ -2,7 +2,7 @@
 a simple random number generator game
 
 
-- FIRST BUILD -
+ FIRST BUILD 
 
 - change settings to increase or 
 decrease difficulty level
@@ -17,7 +17,7 @@ tries
 user with chosen random number 
 
 
-- NEXT BUILD -
+ NEXT BUILD 
 
 - basic user UI 
 - basic graphics
