@@ -13,6 +13,7 @@ user_name = input("Hello, what's your name? \n")
 number_of_guesses = 0
 
 ########################################################################################################################
+
 #print intro and rules
 print(f"Okay {user_name}...I am Guessing a number between 1 and 10:")
 print(f"type a number on your keyboard")
