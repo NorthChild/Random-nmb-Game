@@ -19,7 +19,6 @@ print(f"Okay {user_name}...I am Guessing a number between 1 and 10:")
 print(f"type a number on your keyboard")
 print(f"and also remember {user_name}, \nyou have {number_of_tries} tries to guess the number!")
 
-
 ########################################################################################################################
 
 while number_of_guesses < number_of_tries:
